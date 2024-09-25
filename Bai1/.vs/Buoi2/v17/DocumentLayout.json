@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\New folder (3)\\Buoi2\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD744F2-5C92-434F-A1D4-DA8CA415E9A0}|..\\Bai4\\Bai4.csproj|m:\\new folder (3)\\buoi2\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD744F2-5C92-434F-A1D4-DA8CA415E9A0}|..\\Bai4\\Bai4.csproj|m:\\new folder (3)\\buoi2\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA0470-A6F5-4B09-9584-4F3C67B93300}|..\\Bai2\\Bai2.csproj|m:\\new folder (3)\\buoi2\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA0470-A6F5-4B09-9584-4F3C67B93300}|..\\Bai2\\Bai2.csproj|m:\\new folder (3)\\buoi2\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA0470-A6F5-4B09-9584-4F3C67B93300}|..\\Bai2\\Bai2.csproj|m:\\new folder (3)\\buoi2\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "M:\\New folder (3)\\Buoi2\\Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Bai2\\Form1.cs",
+              "ToolTip": "M:\\New folder (3)\\Buoi2\\Bai2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Bai2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:03:33.155Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\New folder (3)\\Buoi2\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai2\\Program.cs",
+              "ToolTip": "M:\\New folder (3)\\Buoi2\\Bai2\\Program.cs",
+              "RelativeToolTip": "..\\Bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:01:59.081Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "M:\\New folder (3)\\Buoi2\\Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Bai2\\Form1.cs",
+              "ToolTip": "M:\\New folder (3)\\Buoi2\\Bai2\\Form1.cs",
+              "RelativeToolTip": "..\\Bai2\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:06:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "M:\\New folder (3)\\Buoi2\\Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Bai4\\Form1.cs",
+              "ToolTip": "M:\\New folder (3)\\Buoi2\\Bai4\\Form1.cs",
+              "RelativeToolTip": "..\\Bai4\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwCQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:38:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "M:\\New folder (3)\\Buoi2\\Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Bai4\\Form1.cs",
+              "ToolTip": "M:\\New folder (3)\\Buoi2\\Bai4\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Bai4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:38:07.79Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

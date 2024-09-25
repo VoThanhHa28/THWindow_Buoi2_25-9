@@ -1,0 +1,10 @@
+M:\New folder (3)\Buoi2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+M:\New folder (3)\Buoi2\Bai2\obj\Debug\Bai2.Form_QuanLySinhVien.resources
+M:\New folder (3)\Buoi2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+M:\New folder (3)\Buoi2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+M:\New folder (3)\Buoi2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+M:\New folder (3)\Buoi2\Bai2\bin\Debug\Bai2.exe.config
+M:\New folder (3)\Buoi2\Bai2\bin\Debug\Bai2.exe
+M:\New folder (3)\Buoi2\Bai2\bin\Debug\Bai2.pdb
+M:\New folder (3)\Buoi2\Bai2\obj\Debug\Bai2.exe
+M:\New folder (3)\Buoi2\Bai2\obj\Debug\Bai2.pdb

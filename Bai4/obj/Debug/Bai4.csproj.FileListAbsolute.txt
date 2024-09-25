@@ -1,0 +1,20 @@
+M:\New folder (3)\Buoi2\Bai4\bin\Debug\Bai4.exe.config
+M:\New folder (3)\Buoi2\Bai4\bin\Debug\Bai4.exe
+M:\New folder (3)\Buoi2\Bai4\bin\Debug\Bai4.pdb
+M:\New folder (3)\Buoi2\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+M:\New folder (3)\Buoi2\Bai4\obj\Debug\Bai4.Form_QuanLyThongTinTaiKhoan.resources
+M:\New folder (3)\Buoi2\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+M:\New folder (3)\Buoi2\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+M:\New folder (3)\Buoi2\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+M:\New folder (3)\Buoi2\Bai4\obj\Debug\Bai4.exe
+M:\New folder (3)\Buoi2\Bai4\obj\Debug\Bai4.pdb
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\bin\Debug\Bai4.exe.config
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\bin\Debug\Bai4.exe
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\bin\Debug\Bai4.pdb
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\obj\Debug\Bai4.Form_QuanLyThongTinTaiKhoan.resources
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\obj\Debug\Bai4.exe
+C:\Users\Admin\Downloads\Bai4-20240925T102609Z-001\Bai4\obj\Debug\Bai4.pdb

@@ -1,0 +1,10 @@
+M:\New folder (3)\Buoi2\Bai3\bin\Debug\C5_Demo.exe.config
+M:\New folder (3)\Buoi2\Bai3\bin\Debug\C5_Demo.exe
+M:\New folder (3)\Buoi2\Bai3\bin\Debug\C5_Demo.pdb
+M:\New folder (3)\Buoi2\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+M:\New folder (3)\Buoi2\Bai3\obj\Debug\C5_Demo.Form1.resources
+M:\New folder (3)\Buoi2\Bai3\obj\Debug\C5_Demo.Properties.Resources.resources
+M:\New folder (3)\Buoi2\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+M:\New folder (3)\Buoi2\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+M:\New folder (3)\Buoi2\Bai3\obj\Debug\C5_Demo.exe
+M:\New folder (3)\Buoi2\Bai3\obj\Debug\C5_Demo.pdb
